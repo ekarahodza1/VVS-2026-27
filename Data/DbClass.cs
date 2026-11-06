@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using LoanManagement.Models;
 
+// izmjena
 namespace LoanManagement.Data
 {
     public class DbClass
